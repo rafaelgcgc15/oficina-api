@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F35p0n6K8wQzC6M9zcg+AGG6bmIEfS4CcYax94eJqxjEqpEql3nxmODUM1vFrZwPVi/nVnlV1u/YA1clPbEBiw==",
+  "success": true,
+  "projectFilePath": "/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/oficinaService.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/rafaelgoulartcardoso/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaService.deps.json
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaService.dll
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaService.pdb
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaModel.dll
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaRepository.dll
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaModel.pdb
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/bin/Debug/net7.0/oficinaRepository.pdb
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.csproj.AssemblyReference.cache
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.AssemblyInfoInputs.cache
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.AssemblyInfo.cs
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.csproj.CoreCompileInputs.cache
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.csproj.CopyComplete
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.dll
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/refint/oficinaService.dll
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/oficinaService.pdb
+/Users/rafaelgoulartcardoso/Projects/oficinaAPI/oficinaService/obj/Debug/net7.0/ref/oficinaService.dll
