@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.Extensions.DependencyInjection;
-using oficinaAPIModels;
+using oficinaModel;
 using oficinaRepository;
 
 namespace oficinaService

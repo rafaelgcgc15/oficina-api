@@ -1,5 +1,5 @@
 ﻿using System;
-namespace oficinaAPIModels
+namespace oficinaModel
 {
 	public class Peca
 	{		

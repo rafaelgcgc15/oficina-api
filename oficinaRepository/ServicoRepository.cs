@@ -1,5 +1,5 @@
 ﻿using System;
-using oficinaAPIModels;
+using oficinaModel;
 using Npgsql;
 using System.Data;
 using Microsoft.Extensions.Configuration;

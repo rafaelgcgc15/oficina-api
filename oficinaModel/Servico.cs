@@ -1,5 +1,5 @@
 ﻿using System;
-namespace oficinaAPIModels
+namespace oficinaModel
 {
 	public class Servico
 	{
@@ -19,7 +19,7 @@ namespace oficinaAPIModels
 
 		public DateTime? DataFim { get; set; }
 
-		public IEnumerable<Peca>? Pecas { get; set; }
+		public IEnumerable<ServicoPeca>? ServicoPecas { get; set; }
 	}
 }
 

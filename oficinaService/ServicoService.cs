@@ -1,5 +1,5 @@
 ﻿using System;
-using oficinaAPIModels;
+using oficinaModel;
 using oficinaRepository;
 
 namespace oficinaService
